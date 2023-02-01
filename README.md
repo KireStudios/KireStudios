@@ -1,8 +1,8 @@
-# Hi there, I'm Kire.
+# Hi there, I'm Èrik.
 
 ## About me.
 
-- 👋 My name is Kire, and I'm a young Catalan developer.
+- 👋 My name is Èrik, and I'm a young Catalan developer.
 - 📚 I have worked on some projects in different languages such as Python, C, Cpp and other languages.
 - 💬 I speak Catalan (Native), Spanish (Native), English (B2). 私は少し日本語を話します.
 - 🧗‍♂️ Rock and boulder climber.
