@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**KireStudios/KireStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#About me:
 
-Here are some ideas to get you started:
+😀 My name is Kire, and I'm a young Catalan developer.
+💻 I have worked on some projects in different languages such as Python, C, Cpp and other languages.
+⛳ I'm into learning C and Go.
+💬 I speak Catalan (Native), Spanish (Native), English (B2). 私は少し日本語を話します. 🎓
+📕 Working as a teacher, guiding kids into programming and computational thinking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Programming languages
+Python C Cpp Batch
+
+#Basic knowledge
+SQL MongoDB Bash Apache
